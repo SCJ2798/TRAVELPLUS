@@ -1,0 +1,67 @@
+@media screen and (max-width: 1024px) {
+
+    #carouselExampleIndicators{
+        position: relative;
+        width:100%;
+        z-index:0;
+        height:auto;
+        top:0px;
+    }
+    
+    #nav_bar{
+        position:relative;
+        top:0px;
+    }
+    
+    #div_1{
+        display:block;
+        background-color: rgba(0,0,0,1);
+        padding:2%;
+        margin:0px;
+        width:100%;
+        top:0px;
+        position:relative;
+    }
+
+    #div_2{
+        background-color:white;
+        padding:5%;
+        width:100%;
+        position: relative;
+        top:0px;
+    }
+
+    #div_3{
+        background-color:white;
+        padding:5%;
+        width:100%;
+        position: relative;
+        top:0px;
+    }
+
+    #div_4{
+        background-color:white;
+        padding:5%;
+        width:100%;
+        position: relative;
+        top:0px;
+    }
+
+    #div_5{
+        background-color:white;
+        padding:5%;
+        width:100%;
+        position: relative;
+        top:0px;
+    }
+
+    #div_1 .h1{
+        font-size:24px;
+    }
+
+    #div_1 .s{
+        width:100%;
+    }
+
+
+}

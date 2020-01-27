@@ -1,0 +1,86 @@
+body{
+    scroll-behavior:smooth;
+}
+
+.card_hv:hover{
+    background-color:rgb(13, 223, 76);
+    color:white;
+}
+
+#carouselExampleIndicators{
+    position:fixed;
+    z-index:0;
+    top:0px;
+    width:100%;
+    height:auto;
+}
+
+#nav_bar{
+    position: relative;
+    z-index:2;
+    top:0px;
+}
+
+#div_1{
+    z-index:0;
+    background-color: rgba(255,255, 255, 0.2);
+    padding:5%;
+    z-index:2;
+    width:100%;
+    position:relative;
+}
+
+#div_2{
+    z-index:0;
+    background-color:white;
+    padding:5%;
+    z-index:10;
+    width:100%;
+    position: relative;
+}
+
+#div_3{
+    z-index:0;
+    background-color:white;
+    padding:5%;
+    z-index:10;
+    width:100%;
+    position: relative;
+}
+
+#div_4{
+    z-index:0;
+    background-color:white;
+    padding:5%;
+    z-index:10;
+    width:100%;
+    position: relative;
+}
+
+#div_5{
+    z-index:0;
+    background-color:white;
+    padding:5%;
+    z-index:10;
+    width:100%;
+    position: relative;
+}
+
+
+
+#div_1 .s{
+    width:50%;
+}
+
+#footer{
+    width:100%;
+    background-color:black;
+    position: relative;
+    bottom:0px;
+    padding:2% 2%;
+}
+
+#footer p{
+    text-align: center;
+    color:white;
+}
